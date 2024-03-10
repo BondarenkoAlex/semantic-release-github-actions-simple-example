@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/BondarenkoAlex/semantic-release-github-actions-simple-example/compare/v1.0.1...v2.0.0) (2024-03-10)
+
+
+### Features
+
+* Commit BREAKING CHANGE ([672e891](https://github.com/BondarenkoAlex/semantic-release-github-actions-simple-example/commit/672e891fc24ce2b86d5cde4b8f403feb56f481bc))
+
+
+### BREAKING CHANGES
+
+* My breaking change
+
 ## [1.0.1](https://github.com/BondarenkoAlex/semantic-release-github-actions-simple-example/compare/v1.0.0...v1.0.1) (2024-03-10)
 
 
