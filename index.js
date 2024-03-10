@@ -1,1 +1,1 @@
-export const MY_CONST = "Hello world";
+export const MY_CONST = "Hello world fix";
