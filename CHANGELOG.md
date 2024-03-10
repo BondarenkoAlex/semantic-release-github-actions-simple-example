@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/BondarenkoAlex/semantic-release-github-actions-simple-example/compare/v2.0.0...v2.1.0) (2024-03-10)
+
+
+### Features
+
+* Commit local change ([a5c08fc](https://github.com/BondarenkoAlex/semantic-release-github-actions-simple-example/commit/a5c08fc2748ef26df31944ed08b2a21ff3ea4b14))
+
 # [2.0.0](https://github.com/BondarenkoAlex/semantic-release-github-actions-simple-example/compare/v1.0.1...v2.0.0) (2024-03-10)
 
 
